@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m Nandini,I.m a BCA graduate passionate about data science, AI/ML, and full-stack development.<br>I love turning ideas into real-world projects. My GitHub mainly contains DSA practice, Python projects, and AI/ML experiments.
+I’m Nandini,
+I'm a BCA graduate passionate about data science, AI/ML, and full-stack development.<br>I love turning ideas into real-world projects. My GitHub mainly contains DSA practice, Python projects, and AI/ML experiments.
 
 
 ## 🌐 Socials:
